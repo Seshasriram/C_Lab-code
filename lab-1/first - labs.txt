@@ -1,0 +1,23 @@
+1.)write c program to swap the two number using thired varibale 
+
+input  :-
+int a=10;
+int b = 20;
+
+output:-
+
+a = 20;
+b = 10;
+
+2.)write c program to swap the two number without using thired varibale 
+
+input  :-
+int a=10;
+int b = 20;
+
+output:-
+
+a = 20;
+b = 10;
+
+3.)write c program to preform addtion two varibale without using + operator

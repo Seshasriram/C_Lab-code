@@ -1,0 +1,17 @@
+// Online C compiler to run C program online
+#include <stdio.h>
+
+int main() {
+    int a=34,b=36,c=5;
+    
+    (a<b&&a<c)?printf("a is small"):
+    (b<a&&b<c)?printf("b is small"):
+    (a==b&&b==c)?printf("all are equal"):
+    (b==c)?printf("b and c are same"):
+    (a==c)?printf("a and c are same"):
+    (a==b)?printf("a and b are same"):
+    printf("c is small");
+    
+
+    return 0;
+}

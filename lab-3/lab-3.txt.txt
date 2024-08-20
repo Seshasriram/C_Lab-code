@@ -1,0 +1,15 @@
+1.) Write a C program to do a arithmetic operation on two numbers by using Switch Case. 
+Take the operators(+,-,*,/,%) as cases and take the input from the user that what kind of operation user want to do on two number.
+
+
+1.) write a c program  to reverse a two digit number without using loop .
+ input :- 13
+ output :- 31
+
+2.) write a c Porgram to fing the previous multiplication of 100 of a given 3 digit number only 
+ input: 234
+ output : 200
+
+3.) write the c program to add each digit of  given two digits 
+ input : 67
+ output : 13
